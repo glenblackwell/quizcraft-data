@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2026-09-25T12:53:09",
+  "version": "2026-09-25T14:08:32",
   "title": "Year 7 Science Revision",
   "questionCount": 306,
   "questions": [
@@ -2870,7 +2870,7 @@
       "section": "1",
       "question": "What happens to a fuse when too much current passes through it?",
       "answers": [{"text":"Trips a switch","correct":false},{"text":"Stops current permanently","correct":false},{"text":"Gets stronger","correct":false},{"text":"Melts (and breaks circuit)","correct":true}],
-      "image": "https://s3.eu-central-1.amazonaws.com/studysmarter-mediafiles/media/2667211/summary_images/image_UlMLZwc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4OLDUDE42UZHAIET%2F20260603%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20260603T185607Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=37836ec25140f11a92a4f15df92cb3ee8288a17013b1d0eb2f6d76351cfcbdf1",
+      "image": "https://static.vecteezy.com/system/resources/previews/003/516/761/non_2x/caution-fuse-symbol-sign-on-white-background-free-vector.jpg",
       "qtype": "mc"
     },
     {
