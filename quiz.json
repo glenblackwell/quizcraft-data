@@ -1,7 +1,7 @@
 ﻿{
-  "version": "2026-09-25T14:08:32",
+  "version": "2026-09-29T19:43:37",
   "title": "Year 7 Science Revision",
-  "questionCount": 306,
+  "questionCount": 318,
   "questions": [
     {
       "id": "q-5bac0a5a",
@@ -3060,6 +3060,126 @@
       "section": "1",
       "question": "What are the names of the cells which fight pathogens?",
       "answers": [{"text":"Red blood cells","correct":false},{"text":"Platelets","correct":false},{"text":"White blood cells","correct":true},{"text":"Nerve cells","correct":false}],
+      "image": "",
+      "qtype": "mc"
+    },
+    {
+      "id": "q-6184fd1a",
+      "topic": "Biology - How The Body Works",
+      "group": "Y8.1a",
+      "section": "2",
+      "question": "What are the three things which white blood cells do?",
+      "answers": [{"text":"Produce antigens, release antitoxins, destroy platelets","correct":false},{"text":"Release antibodies, release antitoxins, engulf pathogens","correct":true},{"text":"Engulf pathogens, release hormones, produce red blood cells","correct":false},{"text":"Destroy viruses, release antibodies, produce platelets","correct":false}],
+      "image": "",
+      "qtype": "mc"
+    },
+    {
+      "id": "q-3dd821d7",
+      "topic": "Biology - How The Body Works",
+      "group": "Y8.1a",
+      "section": "2",
+      "question": "What is in a vaccination?",
+      "answers": [{"text":"Antibodies taken from another person's blood","correct":false},{"text":"A live pathogen injected to build immunity","correct":false},{"text":"A chemical that kills bacteria inside the body","correct":false},{"text":"Dead/inactive version of the pathogen","correct":true}],
+      "image": "",
+      "qtype": "mc"
+    },
+    {
+      "id": "q-6da5d3b",
+      "topic": "Biology - How The Body Works",
+      "group": "Y8.1a",
+      "section": "2",
+      "question": "Who developed the first vaccination?",
+      "answers": [{"text":"Louis Pasteur","correct":false},{"text":"Robert Koch","correct":false},{"text":"Edward Jenner","correct":true},{"text":"Alexander Fleming","correct":false}],
+      "image": "",
+      "qtype": "mc"
+    },
+    {
+      "id": "q-318077b6",
+      "topic": "Biology - How The Body Works",
+      "group": "Y8.1a",
+      "section": "2",
+      "question": "What is an antigen?",
+      "answers": [{"text":"The outer membrane of a virus","correct":false},{"text":"Protein marker on the outside of a cell","correct":true},{"text":"A chemical released by white blood cells to kill pathogens","correct":false},{"text":"A type of white blood cell that engulfs bacteria","correct":false}],
+      "image": "",
+      "qtype": "mc"
+    },
+    {
+      "id": "q-7e4c7701",
+      "topic": "Biology - How The Body Works",
+      "group": "Y8.1a",
+      "section": "2",
+      "question": "What is an antibody?",
+      "answers": [{"text":"A type of enzyme that breaks down bacteria","correct":false},{"text":"A protein on the surface of a pathogen that triggers immune response","correct":false},{"text":"Released by a white blood cell to make the pathogens clump together","correct":true},{"text":"A chemical produced by red blood cells to destroy antigens","correct":false}],
+      "image": "",
+      "qtype": "mc"
+    },
+    {
+      "id": "q-3962dfce",
+      "topic": "Biology - How The Body Works",
+      "group": "Y8.1a",
+      "section": "2",
+      "question": "What is the word for when a person has had a disease and can't get it again?",
+      "answers": [{"text":"Resistance","correct":false},{"text":"Recovery","correct":false},{"text":"Immunity","correct":true},{"text":"Vaccination","correct":false}],
+      "image": "",
+      "qtype": "mc"
+    },
+    {
+      "id": "q-5939f573",
+      "topic": "Biology - How The Body Works",
+      "group": "Y8.1a",
+      "section": "2",
+      "question": "What are the positives of vaccination?",
+      "answers": [{"text":"Reduce the spread of non-communicable disease","correct":false},{"text":"Produce antibiotics to fight bacteria","correct":false},{"text":"Cure infections already in the body","correct":false},{"text":"Eliminate disease and prevent epidemics","correct":true}],
+      "image": "",
+      "qtype": "mc"
+    },
+    {
+      "id": "q-1fe435db",
+      "topic": "Biology - How The Body Works",
+      "group": "Y8.1a",
+      "section": "2",
+      "question": "What are the negatives of vaccination?",
+      "answers": [{"text":"Might not work, some people may have a bad reaction","correct":true},{"text":"They permanently change your DNA and can cause mutations","correct":false},{"text":"They destroy existing antibodies in your blood","correct":false},{"text":"They make you contagious to others for several weeks","correct":false}],
+      "image": "",
+      "qtype": "mc"
+    },
+    {
+      "id": "q-1146f39a",
+      "topic": "Biology - How The Body Works",
+      "group": "Y8.1a",
+      "section": "2",
+      "question": "Which drug can treat bacterial infections?",
+      "answers": [{"text":"Antitoxins","correct":false},{"text":"Antibiotics","correct":true},{"text":"Painkillers","correct":false},{"text":"Antivirals","correct":false}],
+      "image": "",
+      "qtype": "mc"
+    },
+    {
+      "id": "q-4cb24f33",
+      "topic": "Biology - How The Body Works",
+      "group": "Y8.1a",
+      "section": "2",
+      "question": "Why can antibiotics not be used for a cold?",
+      "answers": [{"text":"It is a virus","correct":true},{"text":"Colds are caused by bacteria that are antibiotic-resistant","correct":false},{"text":"The body's immune system destroys the antibiotics","correct":false},{"text":"Antibiotics only work at high temperatures","correct":false}],
+      "image": "",
+      "qtype": "mc"
+    },
+    {
+      "id": "q-437867d7",
+      "topic": "Biology - How The Body Works",
+      "group": "Y8.1a",
+      "section": "2",
+      "question": "Do painkillers cure disease?",
+      "answers": [{"text":"No, they relieve symptoms","correct":true},{"text":"Yes, they kill the bacteria causing the disease","correct":false},{"text":"Yes, they boost the immune system to fight infection","correct":false},{"text":"No, they only work on viral infections","correct":false}],
+      "image": "",
+      "qtype": "mc"
+    },
+    {
+      "id": "q-7389c8f9",
+      "topic": "Biology - How The Body Works",
+      "group": "Y8.1a",
+      "section": "2",
+      "question": "What is a non-communicable disease?",
+      "answers": [{"text":"A disease that only affects one organ at a time","correct":false},{"text":"A disease caused by a pathogen entering the body","correct":false},{"text":"One that cannot be spread from person to person","correct":true},{"text":"A disease that only lasts a short period of time","correct":false}],
       "image": "",
       "qtype": "mc"
     }
